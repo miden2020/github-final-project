@@ -20,3 +20,14 @@ Where:
 3. Run the script:
    ```bash
    bash simple-interest.sh
+# Simple Interest Calculator
+This project provides a script to calculate simple interest.
+
+## Purpose
+The tool helps users compute interest based on principal, rate, and time.
+
+## How to use
+Run the script using: `bash simple-interest.sh`
+
+## Formula
+Simple Interest = (Principal * Rate * Time) / 100
